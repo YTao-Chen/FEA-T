@@ -1,5 +1,7 @@
 # FEA-T
-Code for "Abandon locality: Frame-wise Embedding Aided Transformer for Automatic Modulation Recognition"
+This repository contains implementations of FEA-T for our paper "Abandon locality: Frame-wise Embedding Aided Transformer for Automatic Modulation Recognition".
+
+We will upload the complete code as soon as possible after sorting and commenting.
 
 # Abstract
 
