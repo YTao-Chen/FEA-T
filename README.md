@@ -1,7 +1,7 @@
 # FEA-T
 This repository contains implementations of FEA-T for our paper "Abandon locality: Frame-wise Embedding Aided Transformer for Automatic Modulation Recognition".
 
-We will upload the complete code as soon as possible after sorting and commenting.
+We will upload the complete code as soon as possible after sorting.
 
 ***Sept 7, 2022*** The source code of the model FEA-T
 
